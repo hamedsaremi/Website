@@ -1,0 +1,28 @@
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="https://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1605162557238">
+  <folder name="css">
+    <file name="site_global.css" crc="4118230973"/>
+    <file name="research.css" crc="4193191577" ref="research"/>
+    <file name="index.css" crc="176960220" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="tssem-rev20100226.pdf" crc="4155049688" seo="true" mt="1270583939000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:research"/>
+    <file name="museutils.js" crc="4155826306" ref="index:research"/>
+    <file name="whatinput.js" crc="86476730" ref="index:research"/>
+    <file name="museconfig.js" crc="483509463" ref="index:research"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index:research"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:research"/>
+    <file name="require.js" crc="228336483" ref="index:research"/>
+  </folder>
+  <folder name="images">
+    <file name="hamed.jpg" crc="4161636503" seo="true" ref="index"/>
+    <file name="email-top.png" crc="4017886289" seo="true" ref="index"/>
+    <file name="phone_icon.png" crc="4114543152" seo="true" ref="index"/>
+    <file name="researchgate_new.png" crc="36570910" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="8999123" seo="true" mt="1605161856765" redirect="true"/>
+  <file name="research.html" crc="3980726044" seo="true" mt="1605161676840" redirect="false"/>
+</manifest>
