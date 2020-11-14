@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1605383157939">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1605383927528">
   <folder name="css">
     <file name="site_global.css" crc="4118230973"/>
     <file name="awards.css" crc="386923879" ref="awards"/>
     <file name="index.css" crc="158461889" ref="index"/>
-    <file name="research.css" crc="185701031" ref="research"/>
+    <file name="research.css" crc="488551781" ref="research"/>
     <file name="teaching.css" crc="90824254" ref="teaching"/>
     <file name="service.css" crc="375704632" ref="service"/>
     <file name="media.css" crc="4036634914" ref="media"/>
@@ -42,7 +42,7 @@
     <file name="researchgate_new.png" crc="36570910" seo="true" ref="index"/>
   </folder>
   <file name="index.html" crc="4247425395" seo="true" mt="1605382603816" redirect="true"/>
-  <file name="research.html" crc="195430329" seo="true" mt="1605382471829" redirect="true"/>
+  <file name="research.html" crc="3932975451" seo="true" mt="1605383915361" redirect="true"/>
   <file name="awards.html" crc="201491592" seo="true" mt="1605330533655" redirect="true"/>
   <file name="media.html" crc="4054455783" seo="true" mt="1605371855259" redirect="true"/>
   <file name="teaching.html" crc="4243644966" seo="true" mt="1605371868250" redirect="true"/>
