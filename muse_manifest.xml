@@ -1,11 +1,11 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1605384241612">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1605420915142">
   <folder name="css">
     <file name="site_global.css" crc="4118230973"/>
     <file name="awards.css" crc="386923879" ref="awards"/>
     <file name="index.css" crc="158461889" ref="index"/>
     <file name="research.css" crc="488551781" ref="research"/>
     <file name="teaching.css" crc="90824254" ref="teaching"/>
-    <file name="service.css" crc="375704632" ref="service"/>
+    <file name="service.css" crc="3882427006" ref="service"/>
     <file name="media.css" crc="4036634914" ref="media"/>
   </folder>
   <folder name="assets">
@@ -46,5 +46,5 @@
   <file name="awards.html" crc="201491592" seo="true" mt="1605330533655" redirect="true"/>
   <file name="media.html" crc="4054455783" seo="true" mt="1605371855259" redirect="true"/>
   <file name="teaching.html" crc="4243644966" seo="true" mt="1605371868250" redirect="true"/>
-  <file name="service.html" crc="4175758290" seo="true" mt="1605383137464" redirect="true"/>
+  <file name="service.html" crc="3809707517" seo="true" mt="1605420901899" redirect="true"/>
 </manifest>
