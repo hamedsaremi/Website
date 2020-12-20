@@ -1,6 +1,6 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1608435921706">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1608436532663">
   <folder name="css">
-    <file name="site_global.css" crc="4118230973"/>
+    <file name="site_global.css" crc="3972818502"/>
     <file name="awards.css" crc="386923879" ref="awards"/>
     <file name="index.css" crc="3842603815" ref="index"/>
     <file name="research.css" crc="488551781" ref="research"/>
