@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1608435394367">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://hamedsaremi.github.io/Website" resolutions="1x" timestamp="1608435921706">
   <folder name="css">
     <file name="site_global.css" crc="4118230973"/>
     <file name="awards.css" crc="386923879" ref="awards"/>
-    <file name="index.css" crc="116538139" ref="index"/>
+    <file name="index.css" crc="3842603815" ref="index"/>
     <file name="research.css" crc="488551781" ref="research"/>
     <file name="teaching.css" crc="90824254" ref="teaching"/>
     <file name="service.css" crc="3882427006" ref="service"/>
@@ -41,7 +41,7 @@
     <file name="mail-icon-icon-sign-symbol-png-and-vector-for-free-download-18597.png" crc="355224307" seo="true" ref="index"/>
     <file name="researchgate_new.png" crc="36570910" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="381364241" seo="true" mt="1608435134846" redirect="true"/>
+  <file name="index.html" crc="4031707605" seo="true" mt="1608435907436" redirect="true"/>
   <file name="research.html" crc="3812309648" seo="true" mt="1606409867199" redirect="true"/>
   <file name="awards.html" crc="200222522" seo="true" mt="1606409867199" redirect="true"/>
   <file name="media.html" crc="419758163" seo="true" mt="1606409867199" redirect="true"/>
